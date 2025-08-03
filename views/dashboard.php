@@ -20,7 +20,7 @@ $all_users = $user->getALLusers();
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-white
     justify-conetent-between">
-            <a href="dashboard.php" class="ms-3" title="Home">
+            <a href="dashboard.php" class="ms-3" title="Homepage">
                 <i class="fa-solid fa-house fa-2x text-dark"></i>
             </a>
             <a href="profile.php" class="nav-link text-secondary">
